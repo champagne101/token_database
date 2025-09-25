@@ -1,0 +1,48 @@
+{
+  "solana.json": "",
+  "network_solana": "solana",
+  "lastUpdated_solana": "2024-01-15T10:30:00Z",
+  "version_solana": "1.0.0",
+  "tokens_solana": [
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.png"
+    },
+    {
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "symbol": "BONK",
+      "name": "Bonk",
+      "decimals": 5,
+      "verified": true,
+      "tags": ["meme"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I"
+    },
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["defi", "dex"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://static.jup.ag/jup/icon.png"
+    }
+  ],
+}
