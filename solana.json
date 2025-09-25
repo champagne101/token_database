@@ -1,9 +1,4 @@
-{
-  "solana.json": "",
-  "network_solana": "solana",
-  "lastUpdated_solana": "2024-01-15T10:30:00Z",
-  "version_solana": "1.0.0",
-  "tokens_solana": [
+[
     {
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
@@ -44,5 +39,4 @@
       "addedAt": "2024-01-01T00:00:00Z",
       "logoURI": "https://static.jup.ag/jup/icon.png"
     }
-  ],
-}
+  ]
