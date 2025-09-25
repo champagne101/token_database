@@ -5,13 +5,13 @@
   "version_arbitrum": "1.0.0",
   "tokens_arbitrum": [
     {
-      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+      "symbol": "WINR",
+      "name": "WINR Protocol",
       "decimals": 18,
       "verified": true,
-      "tags": ["governance", "layer2"],
-      "addedAt": "2024-01-01T00:00:00Z",
+      "tags": ["governance", "defi"],
+      "addedAt": "2025-09-25T00:00:00Z",
       "logoURI": "https://tokens.1inch.io/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
     },
     {
