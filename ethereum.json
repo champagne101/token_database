@@ -1,0 +1,175 @@
+{
+  "ethereum.json": "",
+  "network": "ethereum",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0.0",
+  "tokens": [
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "verified": true,
+      "tags": ["defi", "dex", "governance"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "verified": true,
+      "tags": ["stablecoin", "defi"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    },
+    {
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "decimals": 18,
+      "verified": true,
+      "tags": ["meme"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png"
+    }
+  ],
+
+  "// Example: solana.json": "",
+  "network_solana": "solana",
+  "lastUpdated_solana": "2024-01-15T10:30:00Z",
+  "version_solana": "1.0.0",
+  "tokens_solana": [
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.png"
+    },
+    {
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "symbol": "BONK",
+      "name": "Bonk",
+      "decimals": 5,
+      "verified": true,
+      "tags": ["meme"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I"
+    },
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["defi", "dex"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://static.jup.ag/jup/icon.png"
+    }
+  ],
+
+  "// Example: arbitrum.json": "",
+  "network_arbitrum": "arbitrum",
+  "lastUpdated_arbitrum": "2024-01-15T10:30:00Z",
+  "version_arbitrum": "1.0.0",
+  "tokens_arbitrum": [
+    {
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "verified": true,
+      "tags": ["governance", "layer2"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+    },
+    {
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "verified": true,
+      "tags": ["stablecoin"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    },
+    {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "verified": true,
+      "tags": ["wrapped"],
+      "addedAt": "2024-01-01T00:00:00Z",
+      "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    }
+  ],
+
+  "// README for Token Database": "",
+  "README": {
+    "title": "Decentralized Token Database",
+    "description": "Community-maintained token lists for cross-chain wallet analysis",
+    "structure": {
+      "network": "string - The blockchain network (ethereum, solana, etc.)",
+      "lastUpdated": "ISO 8601 timestamp of last update",
+      "version": "Semantic version for breaking changes",
+      "tokens": [
+        {
+          "address": "Token contract address or mint address",
+          "symbol": "Token ticker symbol",
+          "name": "Full token name",
+          "decimals": "Number of decimal places",
+          "verified": "Boolean - whether token is verified",
+          "tags": "Array of category tags",
+          "addedAt": "ISO 8601 timestamp when added",
+          "logoURI": "Optional - URL to token logo"
+        }
+      ]
+    },
+    "hosting": {
+      "github": "Host JSON files in a public GitHub repository",
+      "cdn": "Use any CDN service (Cloudflare, AWS CloudFront, etc.)",
+      "ipfs": "Decentralized hosting via IPFS",
+      "example_urls": [
+        "https://raw.githubusercontent.com/your-org/token-lists/main/ethereum.json",
+        "https://cdn.your-domain.com/tokens/ethereum.json",
+        "https://gateway.pinata.cloud/ipfs/QmYourIPFSHash/ethereum.json"
+      ]
+    },
+    "contribution": {
+      "process": "Users can submit new tokens via GitHub PRs or web interface",
+      "verification": "Community verification process for new tokens",
+      "moderation": "Remove scam/duplicate tokens"
+    },
+    "integration": {
+      "automatic_updates": "App fetches latest token lists on startup",
+      "caching": "Local storage caching with TTL",
+      "fallback": "Built-in token list as fallback when online fetch fails"
+    }
+  }
+}
