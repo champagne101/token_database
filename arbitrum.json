@@ -1,11 +1,11 @@
  [
   {
     "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "symbol": "ARB",
-    "name": "Arbitrum",
+    "symbol": "WETH",
+    "name": "Wrapped Ethereum",
     "decimals": 18,
     "verified": true,
-    "tags": ["governance", "layer2"],
+    "tags": ["governance", "layer1"],
     "addedAt": "2024-01-01T00:00:00Z",
     "logoURI": "https://tokens.1inch.io/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
   },
