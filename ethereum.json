@@ -1,9 +1,5 @@
 {
-  "ethereum.json": "",
-  "network": "ethereum",
-  "lastUpdated": "2024-01-15T10:30:00Z",
-  "version": "1.0.0",
-  "tokens": [
+ [
     {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "symbol": "UNI",
